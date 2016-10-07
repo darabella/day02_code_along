@@ -31,6 +31,11 @@ img {
   font-style: italic;
 }
 
+.smallC {
+  font-variant-caps: small-caps;
+  font-style: normal;
+}
+
 .nav li {
   list-style: none;
   display: inline;
@@ -49,4 +54,16 @@ img {
   border-top: #cccccc 2px solid;
   margin-top: 20px;
   margin-bottom: 20px;
+}
+
+.two {
+  list-style: square inside;
+}
+
+.sansserif {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.small {
+	font-size: small;
 }
